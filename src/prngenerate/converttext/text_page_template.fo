@@ -1,0 +1,26 @@
+<fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format">
+  <fo:layout-master-set>
+    <fo:simple-page-master master-name="SPM_Name"
+                  page-height="11in"
+                  page-width="8.5in"
+                  margin-top=".25in"
+                  margin-bottom=".25in"
+                  margin-left="1in"
+                  margin-right=".5in">
+      <fo:region-body margin-top="0in"  />
+      <fo:region-before extent="0in" />
+      <fo:region-after  extent="0in" />
+    </fo:simple-page-master>
+
+  <fo:page-sequence-master master-name="PSM_Name">
+    <fo:single-page-master-reference master-reference="SPM_Name"/>
+  </fo:page-sequence-master>
+  </fo:layout-master-set>
+
+  <fo:page-sequence master-reference="PSM_Name" initial-page-number="1">
+    <fo:flow flow-name="xsl-region-body">
+      <!-- Normal text -->
+      							BODY GOES HERE
+    </fo:flow>
+  </fo:page-sequence>
+</fo:root>

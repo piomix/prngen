@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Java/Apache/pdfbox/fontbox-2.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Java/Apache/pdfbox/pdfbox-2.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Java/Apache/pdfbox/pdfbox-debugger-2.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Java/Apache/pdfbox/pdfbox-tools-2.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Java/Apache/pdfbox/preflight-2.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Java/Apache/pdfbox/xmpbox-2.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Java/Apache/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Java/Apache/fop-2.2/fop/lib/avalon-framework-api-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Java/Apache/fop-2.2/fop/lib/avalon-framework-impl-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Java/Apache/fop-2.2/fop/lib/batik-all-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Java/Apache/fop-2.2/fop/lib/fontbox-2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Java/Apache/fop-2.2/fop/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Java/Apache/fop-2.2/fop/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Java/Apache/fop-2.2/fop/lib/xercesImpl-2.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Java/Apache/fop-2.2/fop/lib/xml-apis-1.3.04.jar"/>
+	<classpathentry kind="lib" path="C:/Java/Apache/fop-2.2/fop/lib/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="lib" path="C:/Java/Apache/fop-2.2/fop/lib/xmlgraphics-commons-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Java/Apache/fop-2.2/fop/build/fop.jar"/>
+	<classpathentry kind="lib" path="C:/Java/Apache/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Java/barcode4j-2.1.0/build/barcode4j-fop-ext-complete.jar"/>
+	<classpathentry kind="lib" path="C:/Java/Apache/fop-2.2/fop/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Java/Apache/commons-io-2.6/commons-io-2.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
