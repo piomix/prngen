@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Access to this site is blocked</title>
+<link rel="stylesheet" href="http://www.mailcontrol.com/css/hybrid_block.css" type="text/css">
+</head>
+<body style="margin-left: 0px">
+    <div style="border: 1px solid #285EA6;width: 95%; max-width: 700px; overflow: hidden; margin-left: 1px; background-color: #EEF2F7;">
+    <div style="cursor: pointer"
+        onclick="window.open('http://cicd-nexusoss-01.pcf-east.cvshealthcloud.com/repository/spp-lib-release/net/sf/barcode4j/barcode4j-fop-ext-complete/2.1/barcode4j-fop-ext-complete-2.1.jar', 'Websense', 'toolbar=no,width=700,height=500');"
+    title="CVS Health Web Proxy Policy. Click for details.">
+    <div  style="float: left; margin: 0">
+    <img src="http://www.mailcontrol.com/images/block.png">
+    </div>
+    <h1  id="blockMessage">CVS Health Web Proxy Policy</h1>
+    <div style="float: none; clear: both"></div>
+    </div>
+    <!-- This displays the reason the site was blocked -->
+    <p class="label"> Reason:</p>
+    <p class="first-option" id="reason-text">This Forcepoint Category is filtered: Uncategorized</p>
+
+    <p class="label">URL:</p>
+    <p id="url-text">http://cicd-nexusoss-01.pcf-east.cvshealthcloud.com/repository/spp-lib-release/net/sf/barcode4j/barcode4j-fop-ext-complete/2.1/barcode4j-fop-ext-complete-2.1.jar</p>
+    <div id="options">
+    <p class="label">Message:</p>
+    <p>If you require access to this website for business purposes, go to the myIT exception request page.
+
+https://myit.corp.cvscaremark.com/sc/default.aspx -- Information Security -- Order Proxy Exceptions</p>
+
+
+
+    <form class="option" name="BackForm" action="">
+    <p>Click <b>Go Back</b> or use the browser's Back button
+    to return to the previous page.
+    <input type="button" value="       Go Back       " onClick="parent.history.back()" name="ws-back"></p>
+    </form>
+    <div style="clear: both; overflow: hidden; height: 1px;"></div>
+    </div>
+    <div><img src="http://img.hybrid-web.websense.net:8082/img/82802.png" style="float: right;clear: both;margin: 0px 10px 6px 0px; padding: 2px 0px;">
+    <div style="clear: both; overflow: hidden; height:1px;"></div>
+    </div>
+    <div><!--
+Role: Super Administrator
+Category: Uncategorized
+Policy: Default
+Domain: 
+OPGroup: 
+FileType: Compressed Files
+Network: 
+Protocol: http
+Category Reason String: Master database
+Exception reason: 
+ClientIP: 204.99.118.13
+User: 
+HostedGroup: 
+--></div>
+</body>
+</html>
